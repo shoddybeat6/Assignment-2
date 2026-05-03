@@ -21,7 +21,6 @@ PASTE YOUR UNLISTED YOUTUBE LINK HERE
 
 ## GitHub Repository
 Repository link:  https://github.com/shoddybeat6/Assignment-2
-PASTE YOUR GITHUB LINK HERE
 
 ## References
 Android Developers. 2026. Log class. Available at: https://developer.android.com/reference/android/util/Log [Accessed 3 May 2026].
