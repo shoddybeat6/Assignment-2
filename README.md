@@ -20,7 +20,7 @@ YouTube video link:
 PASTE YOUR UNLISTED YOUTUBE LINK HERE
 
 ## GitHub Repository
-Repository link:  
+Repository link:  https://github.com/shoddybeat6/Assignment-2
 PASTE YOUR GITHUB LINK HERE
 
 ## References
